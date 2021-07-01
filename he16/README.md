@@ -19,3 +19,13 @@ Here we show .gifs of 2D slices (i.e. azimuthally averaged) of quantities relate
 (meridional circulation)
 
 ![vtheta](movies/2D_v_theta_movie.gif)
+
+Next we show .gifs of the (spherically averaged) radial entropy profiles (black) over the course of the simulation, along with the corresponding oxygen shell definition (cyan) at that time.
+
+## Entropy vs radius
+
+![entropyr](movies/entropy-radius.gif)
+
+## Entropy vs mass
+
+![entropym](movies/entropy-mass.gif)
