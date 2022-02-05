@@ -29,3 +29,9 @@ Next we show .gifs of the (spherically averaged) radial entropy profiles (black)
 ## Entropy vs mass
 
 ![entropym](movies/entropy-mass.gif)
+
+## Angular velocity for whole model
+
+![omegaz_large](movies/omega_z.gif)
+
+The first dashed cyan boundary marks the end of the oxygen shell, and the second marks the end of the neon shell. Dotted coral boundaries mark the end of convectively stable regions. So the final region, starting at dotted coral is the convective carbon burning shell.
